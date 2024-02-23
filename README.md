@@ -1,3 +1,61 @@
+
+## Tesvalley store
+
+
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Technologies used</summary>
+  <ul>
+    <li><a href="https://react.dev/">Next.js</a></li>
+  </ul>
+    <ul>
+    <li><a href="express.com/">Tailwind.css</a></li>
+  </ul>
+</details>
+
+
+
+
+### Key Features <a name="key-features"></a>
+
+
+- Display filtered store items.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+Click[ Here!](https://testvalley-cloning-test.vercel.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Deployment
+The project is deployed to Vercel.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+
+👤 **Ushindi Gedeon**
+
+- GitHub: [@GedeonTS](https://github.com/GedeonTS)
+- Twitter: [@Gedeon191](https://twitter.com/Gedeon191)
+- LinkedIn: [Ushindi Gedeon](https://linkedin.com/in/ushindi-gedeon)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
